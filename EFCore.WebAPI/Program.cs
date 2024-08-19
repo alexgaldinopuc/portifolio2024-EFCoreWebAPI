@@ -1,10 +1,13 @@
-using EFCore.WebAPI.Data;
+using EFCore.Repositorio.Data;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddControllers();
 
 // Inje??o do DBCONTEXT no projeto
 builder.Services
@@ -31,5 +34,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
+
+app.MapControllers();
 
 app.Run();

@@ -1,0 +1,12 @@
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\bin\Debug\net8.0\EFCore.Dominio.deps.json
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\bin\Debug\net8.0\EFCore.Dominio.dll
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\bin\Debug\net8.0\EFCore.Dominio.pdb
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.AssemblyInfoInputs.cache
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.AssemblyInfo.cs
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.csproj.CoreCompileInputs.cache
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.sourcelink.json
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.dll
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\obj\Debug\net8.0\refint\EFCore.Dominio.dll
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.pdb
+D:\portifolio2024-EFCoreWebAPI\EFCore.Dominio\obj\Debug\net8.0\ref\EFCore.Dominio.dll
